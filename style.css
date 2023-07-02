@@ -1,0 +1,68 @@
+body{
+    background-image: url(./nature-mountain-displays-radiant-colors-sunset-generative-ai.jpg);
+    background-size: cover;
+    
+}
+
+li {
+  float: left;
+  background-color: transparent;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: coral;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+ul{
+  list-style-type: none;
+}
+li span{
+  font-style: italic;
+  font-size: 1em;
+}
+.gg{
+  /* background-color: slategray; */
+
+  width: 700px;
+  height: 200px;
+  position: relative;
+  top: 250px;
+  left: 450px; 
+  
+  
+}
+.gg p {
+  color: aliceblue;
+  position: relative;
+  right: 250px;
+  
+}
+.gg h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 4rem;
+  padding: 0 10px 0 10px;
+  text-align: left;
+  color: aliceblue;
+  
+}
+.text{
+  color: aliceblue;
+  display: block;
+  position: relative;
+  top: 490px;
+  left: 650px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+}
